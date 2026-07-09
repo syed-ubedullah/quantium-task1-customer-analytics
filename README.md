@@ -159,6 +159,33 @@ Run the project
 python src/Task1_Data_Preparation_Customer_Analytics.py
 ```
 
+
+---
+
+# 📷 Project Visualizations
+
+## Sales by Lifestage
+
+![Sales by Lifestage](screenshots/sales_by_lifestage.png)
+
+---
+
+## Sales by Premium Customer
+
+![Sales by Premium Customer](screenshots/sales_by_premium_customer.png)
+
+---
+
+## Top 10 Brands
+
+![Top 10 Brands](screenshots/top_brands.png)
+
+---
+
+## Top Pack Sizes
+
+![Top Pack Sizes](screenshots/top_pack_sizes.png)
+
 ---
 
 ## 👨‍💻 Author
