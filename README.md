@@ -198,7 +198,7 @@ GitHub:
 https://github.com/syed-ubedullah
 
 LinkedIn:
-(Add your LinkedIn profile here)
+https://www.linkedin.com/in/syed-ubedullah-basha
 
 ---
 
