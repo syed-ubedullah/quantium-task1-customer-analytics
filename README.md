@@ -1,3 +1,14 @@
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0)
+![SciPy](https://img.shields.io/badge/SciPy-Statistics-8CAAE6?logo=scipy)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 🛒 Quantium Task 1 - Customer Analytics using Python
 
 ## 📌 Project Overview
@@ -204,4 +215,6 @@ https://www.linkedin.com/in/syed-ubedullah-basha
 
 ## ⭐ Acknowledgement
 
-This project was completed as part of the **Quantium Data Analytics Virtual Experience Program** on Forage.
+This project was completed as part of the **Quantium Data Analytics Virtual Experience Program** on **Forage**.
+
+The project focuses on customer analytics, retail transaction data analysis, data cleaning, exploratory data analysis (EDA), customer segmentation, and business insights using Python.
